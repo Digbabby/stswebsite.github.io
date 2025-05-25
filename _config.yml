@@ -66,6 +66,20 @@ author:
   name   : "STS GROUP 2"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hello po"
+  links: 
+  #Members heading
+  - label: "<strong>Members</strong>"
+      icon: "fas fa-fw fa-users"
+      url: "#"
+  #Members names
+  - label: "Mary Anne Lim"
+      icon: "far fa-fw fa-user"
+      url: "#"
+  - label: "Conh asdsad"
+      icon: "far fa-fw fa-user"
+      url: "#"
+      
+      
  
 footer:
   links:
