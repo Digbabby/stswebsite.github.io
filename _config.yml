@@ -68,7 +68,7 @@ author:
   bio    : "Hello po"
   links: 
   #Members heading
-  - label: "<strong>Members</strong>"
+  - label: "Members"
       icon: "fas fa-fw fa-users"
       url: "#"
   #Members names
