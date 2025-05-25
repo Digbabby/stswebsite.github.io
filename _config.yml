@@ -65,14 +65,14 @@ author:
   bio: "Hello po"
   links: 
   #Members heading
-  - label: "Members"
+    - label: "Members"
       icon: "fas fa-fw fa-users"
       url: "#"
   #Members names
-  - label: "Mary Anne Lim"
+    - label: "Mary Anne Lim"
       icon: "far fa-fw fa-user"
       url: "#"
-  - label: "Conh asdsad"
+    - label: "Conh asdsad"
       icon: "far fa-fw fa-user"
       url: "#"
       
