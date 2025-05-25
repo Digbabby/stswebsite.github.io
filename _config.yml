@@ -66,33 +66,7 @@ author:
   name   : "STS GROUP 2"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hello po"
-  links:
-    - label: "Member"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Member"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Member"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Member"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Member"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Member"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Member"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Member"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-      
-
+ 
 footer:
   links:
     - label: "Twitter"
