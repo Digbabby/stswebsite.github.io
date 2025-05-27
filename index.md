@@ -11,7 +11,7 @@ classes: wide
 
 Midterms to Prefinals topics
 ## Midterms
-- :blue_book: [Digital Safety](/digital-age/)
+- :blue_book: [Digital Safety](/digital/)
   This lesson talks about what to do and not to do in the internet idk add later
 
 ## Prefinals
