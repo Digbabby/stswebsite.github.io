@@ -13,12 +13,23 @@ Midterms to Prefinals topics
 ## Midterms
 - :blue_book: [Technology, Society, Environment]({{ site.baseurl }}/03technology/)
   This lesson talks about what to do and not to do in the internet idk add later
-- :blue_book: [Digital Age Health]({{ site.baseurl }}/04biotech/)
+- :blue_book: [Biotechnology, Ethics, and Space]({{ site.baseurl }}/04biotech/)
   sadsasjnas
 
 
 ## Prefinals
-- :orange_book: [Digital Age Health]({{ site.baseurl }}/05digital/)
+- :yellow_book: [The Digital Age and Human Health]({{ site.baseurl }}/05digital/)
   Tasdsadsadsad
-- :orange_book: [Industrial Revolution]({{ site.baseurl }}/Indus-revo/)
+- :yellow_book: [Industrial Revolution]({{ site.baseurl }}/06Industrial/)
   This lesson talks about the Industrial Revolution and its impact on society
+
+## Quizzes
+- :red_book: [Technology, Society, Environment]({{ site.baseurl }}/03technology_quiz/)
+  Tasdsadsadsad
+- :red_book: [Biotechnology, Ethics, and Space]({{ site.baseurl }}/04biotech_quiz/)
+  Tasdsadsadsad
+- :red_book: [The Digital Age and Human Health]({{ site.baseurl }}/05digital_quiz/)
+  Tasdsadsadsad
+- :red_book: [Digital Age Health]({{ site.baseurl }}/06industrial_quiz/)
+  Tasdsadsadsad
+
