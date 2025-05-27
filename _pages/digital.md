@@ -1,7 +1,7 @@
 ---
 title: "The Digital Age and Human Health"
 layout: single
-permalink: /digital-age/
+permalink: /digital/
 author_profile: true
 toc: true
 ---
