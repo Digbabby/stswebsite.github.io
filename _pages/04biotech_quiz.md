@@ -6,38 +6,8 @@ nav: false
 pagination: false
 ---
 
-<style>
-.quiz-btn {
-  margin: 4px;
-  padding: 8px 16px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  background-color: #eee;
-  transition: 0.3s;
-}
-.quiz-btn:hover {
-  background-color: #ddd;
-}
-.correct {
-  background-color: #4CAF50 !important;
-  color: white;
-}
-.incorrect {
-  background-color: #ccc !important;
-  color: #888;
-}
-#score-container {
-  display: none;
-  margin-top: 20px;
-  padding: 10px;
-  background-color: #f5f5f5;
-  border-left: 5px solid #4CAF50;
-  font-weight: bold;
-}
-</style>
-
-<div id="quiz-container">
+<h2 style="text-align:center;">📝 Quiz 1: Technology’s Role in Society and the Environment</h2>
+<div id="quiz-container" style="text-align:center;">
 
 <p>1. What is the primary goal of genetic engineering?</p>
 <div>
@@ -165,6 +135,46 @@ pagination: false
 </div>
 
 </div>
+<style>
+  .quiz-btn {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  .quiz-btn:hover {
+  background-color: #ddd;
+  }  
+  .quiz-btn.correct {
+    background-color: #28a745;
+    color: white;
+  }
+
+  .quiz-btn.incorrect {
+    background-color: #ccc;
+    color: #666;
+    pointer-events: none;
+  }
+
+  .retry-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  .retry-btn:hover {
+    background-color: #0056b3;
+  }
+</style>
 
 <script>
   let totalQuestions = 15;
