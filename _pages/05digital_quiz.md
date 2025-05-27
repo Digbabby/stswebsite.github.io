@@ -1,5 +1,5 @@
 ---
-permalink: /digitalquiz/
+permalink: /05digital_quiz/
 title: "Digital Quiz"
 ---
 
