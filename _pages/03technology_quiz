@@ -112,8 +112,12 @@ pagination: false
     <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Mild flu</button>
     <button class="quiz-btn" onclick="checkAnswer(this, false)">D. A weather event</button>
   </div>
+<div id="score-container">
+  <p id="score-msg"></p>
+  <button onclick="resetQuiz()">🔄 Retry Quiz</button>
 </div>
 
+</div>
 <style>
   .quiz-btn {
     display: block;
