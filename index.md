@@ -18,18 +18,18 @@ Midterms to Prefinals topics
 
 
 ## Prefinals
-- :yellow_book: [The Digital Age and Human Health]({{ site.baseurl }}/05digital/)
+- 📙: [The Digital Age and Human Health]({{ site.baseurl }}/05digital/)
   Tasdsadsadsad
-- :yellow_book: [Industrial Revolution]({{ site.baseurl }}/06Industrial/)
+- 📙 [Industrial Revolution]({{ site.baseurl }}/06Industrial/)
   This lesson talks about the Industrial Revolution and its impact on society
 
 ## Quizzes
-- :red_book: [Technology, Society, Environment]({{ site.baseurl }}/03technology_quiz/)
+- :closed_book: [Technology, Society, Environment]({{ site.baseurl }}/03technology_quiz/)
   Tasdsadsadsad
-- :red_book: [Biotechnology, Ethics, and Space]({{ site.baseurl }}/04biotech_quiz/)
+- :closed_book: [Biotechnology, Ethics, and Space]({{ site.baseurl }}/04biotech_quiz/)
   Tasdsadsadsad
-- :red_book: [The Digital Age and Human Health]({{ site.baseurl }}/05digital_quiz/)
+- :closed_book: [The Digital Age and Human Health]({{ site.baseurl }}/05digital_quiz/)
   Tasdsadsadsad
-- :red_book: [Digital Age Health]({{ site.baseurl }}/06industrial_quiz/)
+- :closed_book: [Digital Age Health]({{ site.baseurl }}/06industrial_quiz/)
   Tasdsadsadsad
 
