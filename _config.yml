@@ -16,6 +16,8 @@
 # in the templates via {{ site.myvariable }}.
 
 
+baseurl: "/stswebsite.github.io"  # <-- Your repository name
+url: "https://digbabby.github.io"
 
 title: STS PROJECT
 email:
