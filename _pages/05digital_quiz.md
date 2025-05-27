@@ -1,6 +1,9 @@
 ---
 permalink: /05digital_quiz/
 title: "Digital Quiz"
+layout: single
+nav: false
+pagination: false
 ---
 
 <h2 style="text-align:center;">📝 Quiz 1: Technology’s Role in Society and the Environment</h2>
@@ -129,7 +132,9 @@ title: "Digital Quiz"
     font-weight: bold;
     transition: background-color 0.3s ease;
   }
-
+  .quiz-btn:hover {
+  background-color: #ddd;
+  }  
   .quiz-btn.correct {
     background-color: #28a745;
     color: white;
