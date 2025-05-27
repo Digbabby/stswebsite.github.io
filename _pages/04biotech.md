@@ -1,7 +1,7 @@
 ---
 title: "Biotechnology, Ethics, and Space"
 layout: single
-permalink: /biotech/
+permalink: /04biotech/
 author_profile: true
 toc: true
 ---
