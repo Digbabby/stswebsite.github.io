@@ -1,0 +1,208 @@
+---
+title: "🧬 Quiz 3: Technology’s Role in Society and the Environment"
+permalink: /03technology_quiz/
+layout: single
+nav: false
+pagination: false
+---
+<h2 style="text-align:center;">💻 Quiz 3: The Digital Age and Human Health</h2>
+<div id="quiz-container" style="text-align:center;">
+  <div>
+    <p>1. What defines the Digital Age?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Absence of technology</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">B. Print media growth</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">C. Expansion of the internet</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Manual tools</button>
+  </div>
+  <div>
+    <p>2. What is cyberbullying?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Trolling websites</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">B. Harassment using digital platforms</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Internet ban</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Bullying on school grounds</button>
+  </div>
+  <div>
+    <p>3. What is identity theft?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Theft of gadgets</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">B. Using someone’s personal info illegally</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Forgetting passwords</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Changing your name</button>
+  </div>
+  <div>
+    <p>4. What is phishing?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Tracking location</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">B. Cooking fish</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">C. Fake emails for data theft</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Anti-virus protection</button>
+  </div>
+  <div>
+    <p>5. What can viruses and malware do?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Speed up computers</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">B. Improve security</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">C. Harm devices and steal data</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Clean hard drives</button>
+  </div>
+  <div>
+    <p>6. What is a strong password?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. "12345"</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">B. "mypassword"</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">C. "C0mpl3x@123!"</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. "hello"</button>
+  </div>
+  <div>
+    <p>7. What protects devices from malware?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. More tabs</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">B. Antivirus software</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Longer emails</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Weak networks</button>
+  </div>
+  <div>
+    <p>8. What is telemedicine?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Online shopping</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">B. Video-based health care</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Office surgery</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Manual prescriptions</button>
+  </div>
+  <div>
+    <p>9. What do wearables track?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Fashion trends</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">B. Health metrics</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Internet usage</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Travel distances only</button>
+  </div>
+  <div>
+    <p>10. What is 3D bioprinting used for?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Printing flyers</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">B. Making food</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">C. Creating tissues and organs</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Building structures</button>
+  </div>
+  <div>
+    <p>11. What does a PillCam do?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Shows heart rate</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">B. Measures blood pressure</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">C. Takes digestive tract images</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Dispenses pills</button>
+  </div>
+  <div>
+    <p>12. What is a bionic eye used for?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Scan barcodes</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">B. Help the blind perceive light and shapes</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Detect lies</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Play video games</button>
+  </div>
+  <div>
+    <p>13. What does health equity promote?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Rich-only healthcare</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">B. Equal access to healthcare</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Expensive hospitals</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Medical tourism</button>
+  </div>
+  <div>
+    <p>14. What was the response to COVID-19 in the Philippines?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. Open borders</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">B. No lockdown</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">C. Bayanihan to Heal as One Act</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Full travel bans only</button>
+  </div>
+  <div>
+    <p>15. What is a pandemic?</p>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">A. A local disease</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, true)">B. A global disease spread</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">C. Mild flu</button>
+    <button class="quiz-btn" onclick="checkAnswer(this, false)">D. A weather event</button>
+  </div>
+</div>
+
+<style>
+  .quiz-btn {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  .quiz-btn:hover {
+  background-color: #ddd;
+  }  
+  .quiz-btn.correct {
+    background-color: #28a745;
+    color: white;
+  }
+
+  .quiz-btn.incorrect {
+    background-color: #ccc;
+    color: #666;
+    pointer-events: none;
+  }
+
+  .retry-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  .retry-btn:hover {
+    background-color: #0056b3;
+  }
+</style>
+
+<script>
+  let totalQuestions = 15;
+  let score = 0;
+  let answeredCount = 0;
+
+  function checkAnswer(button, isCorrect) {
+    const parent = button.parentElement;
+    if (parent.classList.contains('answered')) return;
+
+    parent.classList.add('answered');
+    answeredCount++;
+
+    if (isCorrect) {
+      button.classList.add("correct");
+      score++;
+    } else {
+      button.classList.add("incorrect");
+    }
+
+    const buttons = parent.querySelectorAll(".quiz-btn");
+    buttons.forEach(btn => btn.disabled = true);
+
+    if (answeredCount === totalQuestions) {
+      showScore();
+    }
+  }
+
+  function showScore() {
+    const scoreBox = document.getElementById("score-container");
+    const scoreMsg = document.getElementById("score-msg");
+    scoreMsg.innerText = `🎉 You got ${score} out of ${totalQuestions} correct!`;
+    scoreBox.style.display = "block";
+  }
+
+  function resetQuiz() {
+    score = 0;
+    answeredCount = 0;
+
+    const buttons = document.querySelectorAll(".quiz-btn");
+    buttons.forEach(btn => {
+      btn.disabled = false;
+      btn.classList.remove("correct", "incorrect");
+    });
+
+    const allContainers = document.querySelectorAll("#quiz-container > div");
+    allContainers.forEach(div => div.classList.remove("answered"));
+
+    document.getElementById("score-container").style.display = "none";
+    document.getElementById("score-msg").innerText = "";
+  }
+</script>
