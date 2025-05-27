@@ -8,7 +8,7 @@ toc: true
 
 ## 🧭 Topic: How Technology Affects Well-being and Security
 
----
+
 
 ### 💡 Internet & Cybersecurity
 
@@ -19,7 +19,7 @@ Cyberbullying, phishing, hacking, malware
 **Safety Tips**  
 Strong passwords, antivirus, avoid suspicious links
 
----
+
 
 ### 💡 Medical Advancements
 
@@ -30,7 +30,7 @@ Strong passwords, antivirus, avoid suspicious links
 - **Bionic Eyes** to restore vision  
 ![Placeholder for Medical Tech](../assets/images/placeholder-medical.jpg)
 
----
+
 
 ### 💡 Public Health & Pandemics
 
@@ -38,7 +38,7 @@ Strong passwords, antivirus, avoid suspicious links
 Government responses like lockdowns and support acts  
 ![Placeholder for Pandemic Timeline](../assets/images/placeholder-pandemic.jpg)
 
----
+
 
 ### 📌 Summary
 
