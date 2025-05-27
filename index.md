@@ -11,9 +11,14 @@ classes: wide
 
 Midterms to Prefinals topics
 ## Midterms
-- :blue_book: [Digital Safety]({{ site.baseurl }}/digital/)
+- :blue_book: [Technology, Society, Environment]({{ site.baseurl }}/03technology/)
   This lesson talks about what to do and not to do in the internet idk add later
+- :blue_book: [Digital Age Health]({{ site.baseurl }}/04biotech/)
+  sadsasjnas
+
 
 ## Prefinals
-- :orange_book: [Industrial Revolution](/Indus-revo/)
+- :orange_book: [Digital Age Health]({{ site.baseurl }}/05digital/)
+  Tasdsadsadsad
+- :orange_book: [Industrial Revolution]({{ site.baseurl }}/Indus-revo/)
   This lesson talks about the Industrial Revolution and its impact on society
