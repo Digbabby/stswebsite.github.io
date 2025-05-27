@@ -15,15 +15,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#Extra addons para matanggal sidebar
-sidebar:
-  nav: "main"
-  sticky: true
-#makes it able to find pages
-collections:
-  pages:
-    output: true
-    permalink: /:path/
 
 
 title: STS PROJECT
@@ -87,7 +78,17 @@ author:
     - label: "Conh asdsad"
       icon: "far fa-fw fa-user"
       url: "#"
-      
+
+#Extra addons para matanggal sidebar
+sidebar:
+  nav: "main"
+  sticky: true
+#makes it able to find pages
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
       
  #removed footer
 #footer:
@@ -106,7 +107,7 @@ defaults:
    #_posts
   - scope:
       path: ""
-      type: posts
+      type: "pages"
     values:
       layout: single
       author_profile: true
