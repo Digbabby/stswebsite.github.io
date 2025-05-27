@@ -1,7 +1,7 @@
 ---
 title: "The Digital Age and Human Health"
 layout: single
-permalink: /03digital/
+permalink: /05digital/
 author_profile: true
 toc: true
 #remove # if you wanna hide bottom previous/next bar
