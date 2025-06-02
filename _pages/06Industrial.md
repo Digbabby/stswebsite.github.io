@@ -8,7 +8,6 @@ toc: true
 
 ## 🧭 Topic: Technological Innovation and Societal Transformation During the Industrial Revolution
 
----
 
 ### 💡 The Industrial Revolution and Technological Advancements 
 This period created major changes in industries and our daily lives, in terms of technological, economic, and social advancements. There will be two key phases which are, the First Industrial Revolution (1750–1850) and the Second Industrial Revolution (1870–1914). 
@@ -25,7 +24,7 @@ The First Industrial Revolution brought inventions which changed the efficiency 
 
 ### 💡 Second Industrial Revolution Innovations
 The Second Industrial Revolution brought significant advancements in communication, transportation, and energy.
-- **Telephone (1876) – Alexander Graham Bell **
+- **Telephone (1876) – Alexander Graham Bell**
 → Talk over distances → revolutionized communication
 - **Internal Combustion Engine (1876) – Nikolaus Otto, Car by Karl Benz (1886)**
 → Small, powerful engine → led to cars and trucks
