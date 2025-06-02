@@ -8,8 +8,6 @@ toc: true
 
 ## 🧭 Topic: The Influence of Technology on Society, Politics, Economy, and the Environment
 
----
-
 ### 💡 Social Impact
 Technology has revolutionized communication and information access:
 
@@ -19,7 +17,6 @@ Platforms like Facebook and Instagram enable global connections but may contribu
 **Information Accessibility**  
 The internet provides instant access to news and knowledge, but users must be cautious of **misinformation (accidental)** and **disinformation (intentional).**
 
----
 
 ### 💡 Political Impact
 Technology reshapes governance and political engagement:
@@ -30,7 +27,6 @@ Digital services (e.g., tax filing, e-voting) improve efficiency but raise cyber
 **Digital Politics**  
 Social media empowers activism (e.g., online petitions) but also enables manipulation through fake news and AI-driven bots.
 
----
 
 ### 💡 Economic Impact
 Technology drives growth and innovation:
@@ -41,7 +37,6 @@ Enhances productivity in industries like manufacturing and customer service.
 **E-Commerce and FinTech**  
 Platforms like Shopee and GCash transform shopping and banking, though cybersecurity and regulation remain challenges.
 
----
 
 ### 💡 Environmental Impact
 Technology affects ecosystems and sustainability:
@@ -52,7 +47,6 @@ Industrialization causes air, water, and soil pollution, requiring solutions lik
 **Climate Change & GHGs**  
 Greenhouse gas emissions accelerate global warming; solutions include transitioning to renewables and sustainable land use.
 
----
 
 ### 💡 Sustainable Technologies
 Innovations promoting sustainability:
