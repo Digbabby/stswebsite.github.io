@@ -113,23 +113,27 @@ pagination: false
   <button class="quiz-btn" onclick="checkAnswer(this, true)">C. Require infrastructure upgrades</button>
   <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Less efficiency</button>
   </div>
-</div>
+  <div id="score-container" style="display:none; text-align:center; margin-top:20px;">
+  <p id="score-msg"></p>
+  <button class="retry-btn" onclick="resetQuiz()">🔄 Restart Quiz</button>
+  </div>
 
-<div id="score-container" style="text-align:center; display:none; margin-top:20px;">
-  <p id="score-msg" style="font-weight:bold;"></p>
-  <button onclick="resetQuiz()" class="retry-btn">Retry Quiz</button>
 </div>
 
 <style>
   .quiz-btn {
     display: block;
+    width: 100%; /* Take full width */
+    max-width: 400px; /* Optional: limits max size */
     margin: 10px auto;
-    padding: 10px 20px;
-    background-color: #eee;
-    border: 1px solid #ccc;
+    padding: 12px 20px;
+    background-color: #fff;
+    border: 2px solid #ccc;
     border-radius: 6px;
     cursor: pointer;
     font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
     transition: background-color 0.3s ease;
   }
   .quiz-btn:hover {
