@@ -36,7 +36,7 @@ Are harmful programs that damage, disrupt, or steal information from computers a
 - **Hacking**
 Hacking is the unauthorized access to computers, networks, or digital systems, often used for ethical purposes. Malicious hackers, or black hat hackers, steal data, spread viruses, and commit crimes like identity theft. They exploit security weaknesses and phishing scams. 
 
-**How to Stay Safe Online**  
+### 💡 How to Stay Safe Online
 - **Use Strong Password**
 Strong passwords are crucial for online safety, protecting personal information, social media accounts, and bank details from hackers. Weak passwords are easy to guess and can be easily guessed using software. Strong passwords are long, unique, and include letters, numbers, and symbols, making them harder for hackers to crack. Regular password changes and using different ones for each account further enhance security.
 
