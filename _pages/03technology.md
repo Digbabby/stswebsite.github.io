@@ -37,9 +37,11 @@ Technology drives growth and innovation:
 
 **AI and Automation**  
 Enhances productivity in industries like manufacturing and customer service.
+(../assets/images/03-1.png)
 
 **E-Commerce and FinTech**  
 Platforms like Shopee and GCash transform shopping and banking, though cybersecurity and regulation remain challenges.
+(../assets/images/03-2.png)
 
 ---
 
@@ -48,6 +50,7 @@ Technology affects ecosystems and sustainability:
 
 **Pollution**  
 Industrialization causes air, water, and soil pollution, requiring solutions like renewable energy and waste management.
+(../assets/images/03-3.png)
 
 **Climate Change & GHGs**  
 Greenhouse gas emissions accelerate global warming; solutions include transitioning to renewables and sustainable land use.
