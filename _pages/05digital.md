@@ -16,7 +16,7 @@ The digital age, also known as the information age, has revolutionized communica
 ### 💡 CYBER THREATS AND RISKS
 
 **Cyber Threats**  
-is the protection of computers, networks, and data from unauthorized access, attacks, or damage in the digital age. It is crucial as people store personal information, conduct business, and communicate online, making them vulnerable to cyber threats like hacking, viruses, identity theft, and ransomware. To defend against these dangers, cybersecurity uses tools like firewalls, antivirus software, encryption, and secure passwords. Educating users to recognize scams is also essential. Strong cybersecurity measures and awareness are crucial for protecting our digital lives.
+Is the protection of computers, networks, and data from unauthorized access, attacks, or damage in the digital age. It is crucial as people store personal information, conduct business, and communicate online, making them vulnerable to cyber threats like hacking, viruses, identity theft, and ransomware. To defend against these dangers, cybersecurity uses tools like firewalls, antivirus software, encryption, and secure passwords. Educating users to recognize scams is also essential. Strong cybersecurity measures and awareness are crucial for protecting our digital lives.
 
 - **Cybersecurity**
 Is the protection of computers, networks, and data from unauthorized access, attacks, or damage in the digital age. It is crucial as people store personal information, conduct business, and communicate online, making them vulnerable to cyber threats like hacking, viruses, identity theft, and ransomware. To defend against these dangers, cybersecurity uses tools like firewalls, antivirus software, encryption, and secure passwords. Educating users to recognize scams is also essential. Strong cybersecurity measures and awareness are crucial for protecting our digital lives.
@@ -87,7 +87,7 @@ An epidemic is a sudden increase in the number of cases of a disease above what 
   
 ### 💡 Spanish Flu (1918 Influenza Pandemic)
 
--**What is it?**
+- **What is it?**
 The Spanish Flu was a deadly influenza pandemic that swept the globe between 1918 and 1919. It was caused by the H1N1 influenza A virus and is considered one of the deadliest pandemics in human history.
 
 - **Why "Spanish" Flu**
