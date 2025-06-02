@@ -98,6 +98,8 @@ The Spanish Flu pandemic of 1918-1919 was a devastating outbreak caused by the H
 ### 💡 Coronavirus Disease 2019 Pandemic
 COVID-19, a contagious respiratory illness caused by the SARS-CoV-2 virus, was first identified in Wuhan, China, in December 2019. It spreads through respiratory droplets and can cause fever, cough, fatigue, and difficulty breathing. Governments implemented preventive measures like lockdowns and travel restrictions to slow the spread. In response, scientists and pharmaceutical companies developed vaccines, which reduced the disease's severity. COVID-19 had far-reaching effects on economies, education, travel, and mental health, highlighting global healthcare inequalities and the need for preparedness for future pandemics. The pandemic has reshaped the modern world, highlighting the vulnerabilities and strengths of global health systems.
 
+---
+
 ### 📌 Summary
 
 The digital age improves health and convenience—but requires vigilance in cybersecurity and healthcare equity.
