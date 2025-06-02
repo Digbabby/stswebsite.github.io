@@ -30,11 +30,9 @@ Tools like CRISPR-Cas9 and stem cell therapy drive medical innovation.
 - **Food Security**
 GMOs improve nutrition, food shelf life (e.g., Arctic apples), and reduce waste.
 
-![Placeholder for GMO Use](../assets/images/placeholder-gmo.jpg)
 
 ### 💡Ethical Issues
 Designer babies, cloning, and animal welfare in biotech  
-![Placeholder for Ethics Chart](../assets/images/placeholder-ethics.jpg)
 
 - **Human Cloning and Designer Babies**
 Controversy over identity and moral boundaries. 2002: Clonaid claimed unverified human cloning. Gene editing in embryos raises concerns about eugenics and inequality.
@@ -63,7 +61,6 @@ Space exploration has led to groundbreaking discoveries and technological advanc
 - **International Space Station (1998-Present)** – A global research lab advancing science and technology in space.
 - **Mars Rover Missions (2000s-Present)** – Robots like Curiosity and Perseverance study Mars to uncover its history and potential for life.
 - **James Webb Space Telescope (2021)** – Provides deeper insights into galaxies, planets, and the origins of the universe.
-![Placeholder for Space Timeline](../assets/images/placeholder-space.jpg)
 
 ### 💡 Benefits
 - **Expands** scientific knowledge about planets, space, and life beyond Earth.
