@@ -17,7 +17,7 @@ Midterms to Prefinals topics
 
 
 ## Prefinals
-- 📙: [The Digital Age and Human Health]({{ site.baseurl }}/05digital/)
+- 📙 [The Digital Age and Human Health]({{ site.baseurl }}/05digital/)
 - 📙 [Industrial Revolution]({{ site.baseurl }}/06Industrial/)
 
 ## Quizzes
