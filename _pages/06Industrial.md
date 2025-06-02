@@ -1,7 +1,7 @@
 ---
 title: "The Industrial Revolution and Technological Advancements"
 layout: single
-permalink: /industrial-revolution/
+permalink: /06Industrial/
 author_profile: true
 toc: true
 ---
@@ -10,73 +10,52 @@ toc: true
 
 ---
 
-### 🏭 The Industrial Revolution Overview
+### 💡 The Industrial Revolution and Technological Advancements 
+This period created major changes in industries and our daily lives, in terms of technological, economic, and social advancements. There will be two key phases which are, the First Industrial Revolution (1750–1850) and the Second Industrial Revolution (1870–1914). 
 
-The Industrial Revolution marked a turning point in history, blending technological innovation with economic and societal change. It unfolded in two major phases:
+**The Industrial Revolution** 
+Recognized to be one of the most life changing events in humanity, significant rapid technology development produced new tools, machinery, improving labor, production, and efficient use of resources. Merging technology with industry, impacts existing ones thus surfacing new industries. Even to this day the changes from this period are preserved to this day.
 
-- **First Industrial Revolution (1750–1850)**
-- **Second Industrial Revolution (1870–1914)**
+### 💡 First Industrial Revolution Innovations 
+The First Industrial Revolution brought inventions which changed the efficiency of manufacturing and production and transport. 
+- **Spinning Jenny (1764)** – Invented by James Hargreaves, a multi-spindle spinning frame increasing fabric production and reduced costs. 
+- **Puddling Furnace (1784)** – Designed by Henry Cort, removing impurities from pig iron thus producing wrought iron suitable for industrial machinery, railways, and construction.
+- **Cotton Gin (1793)** – Developed by Eli Whitney, separating cotton fibers from seeds, increasing cotton production and significantly helped the expansion of textile industries.
+- **Macadamized Roads (1810s)** – Created by John Loudon McAdam, using compacted stone layers allowing better drainage and durability, therefore improved transportation networks.
 
-![Placeholder: Industrial Revolution timeline](../assets/images/placeholder-industry-timeline.jpg)
+### 💡 Second Industrial Revolution Innovations
+The Second Industrial Revolution brought significant advancements in communication, transportation, and energy.
+- **Telephone (1876) – Alexander Graham Bell **
+→ Talk over distances → revolutionized communication
+- **Internal Combustion Engine (1876) – Nikolaus Otto, Car by Karl Benz (1886)**
+→ Small, powerful engine → led to cars and trucks
+- **Electric Light Bulb (1879) – Thomas Edison (based on Joseph Swan)**
+→ Bright, lasting light → safer homes and factories
+- **Radio (1895) – Guglielmo Marconi**
+→ Wireless sound transmission → birth of broadcasting and wireless tech
 
----
+### 💡 Impacts of the Industrial Revolutions
 
-### 🔧 First Industrial Revolution Innovations
+- **Economic Growth**
+→  Factories and machines made more goods, faster.
+→  This led to more jobs, more businesses, and more wealth in many places.
 
-- **Spinning Jenny (1764)**  
-  Multi-spindle machine that revolutionized textile production.  
-  _Inventor: James Hargreaves_  
-  ![Placeholder: Spinning Jenny](../assets/images/placeholder-spinning-jenny.jpg)
+- **Urbanization**
+→  Since factories were in cities, many people left farms and villages to work there.
+→  Cities grew rapidly.
 
-- **Puddling Furnace (1784)**  
-  Refined pig iron to produce high-quality wrought iron.  
-  _Inventor: Henry Cort_  
-  ![Placeholder: Iron furnace diagram](../assets/images/placeholder-furnace.jpg)
+- **Labor Changes**
+→  Factory jobs were tough—long hours, low pay, and dangerous conditions.
+→  Workers began forming labor unions to demand better treatment, fair wages, and safety.
 
-- **Cotton Gin (1793)**  
-  Separated seeds from cotton quickly.  
-  _Inventor: Eli Whitney_  
-  ![Placeholder: Cotton gin in use](../assets/images/placeholder-cotton-gin.jpg)
+- **Environmental Impact**
+→  More factories meant more smoke, chemicals, and waste.
+→  Deforestation (cutting down trees), air pollution, and heavy use of resources became big problems.
 
-- **Macadamized Roads (1810s)**  
-  Layered stone roads improved durability and transport.  
-  _Developer: John Loudon McAdam_  
-  ![Placeholder: Road design diagram](../assets/images/placeholder-roads.jpg)
-
----
-
-### 🔌 Second Industrial Revolution Innovations
-
-- **Telephone (1876)**  
-  Enabled voice communication across distances.  
-  _Inventor: Alexander Graham Bell_  
-  ![Placeholder: Bell’s telephone](../assets/images/placeholder-telephone.jpg)
-
-- **Internal Combustion Engine (1876)**  
-  Allowed for the creation of automobiles.  
-  _Developers: Nikolaus Otto & Karl Benz_  
-  ![Placeholder: Early engine blueprint](../assets/images/placeholder-engine.jpg)
-
-- **Electric Light Bulb (1879)**  
-  Introduced accessible electric lighting.  
-  _Inventor: Thomas Edison_  
-  ![Placeholder: Edison bulb illustration](../assets/images/placeholder-lightbulb.jpg)
-
-- **Radio (1895)**  
-  Enabled wireless telegraphy and broadcasting.  
-  _Inventor: Guglielmo Marconi_  
-  ![Placeholder: Early radio setup](../assets/images/placeholder-radio.jpg)
-
----
-
-### 🌍 Impacts of the Industrial Revolutions
-
-- **Economic Growth**: Boosted global production and trade.  
-- **Urbanization**: Drove people into cities, increasing population density.  
-- **Labor Changes**: Rise of factory work, labor unions, and workers' rights.  
-- **Environmental Impact**: Increased pollution and resource depletion.  
 - **Technological Legacy**: Foundations for modern communication, medicine, and transport.  
-![Placeholder: Industrial impact chart](../assets/images/placeholder-impact.jpg)
+→  The inventions from these revolutions inspired even more innovations—like airplanes, computers, and the internet.
+→  Many modern comforts and technologies can be traced back to this time.
+
 
 ---
 
