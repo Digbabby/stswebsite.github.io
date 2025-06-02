@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-### 🧭 Topic: Biotechnology & GMOs
+## 🧭 Topic: Biotechnology & GMOs
 
 ### 💡 Applications  
 Golden Rice, insulin from engineered bacteria, GIFT tilapia  
