@@ -29,6 +29,7 @@ Technology reshapes governance and political engagement:
 
 **E-Government**  
 Digital services (e.g., tax filing, e-voting) improve efficiency but raise cybersecurity concerns.
+
 **Digital Politics**  
 Social media empowers activism (e.g., online petitions) but also enables manipulation through fake news and AI-driven bots.
 ![Placeholder for Digital Democracy](../assets/images/placeholder-politics.jpg)
@@ -40,6 +41,7 @@ Technology drives growth and innovation:
 
 **AI and Automation**  
 Enhances productivity in industries like manufacturing and customer service.
+
 **E-Commerce and FinTech**  
 Platforms like Shopee and GCash transform shopping and banking, though cybersecurity and regulation remain challenges.
 ![Placeholder for FinTech Illustration](../assets/images/placeholder-ecommerce.jpg)
@@ -51,6 +53,7 @@ Technology affects ecosystems and sustainability:
 
 **Pollution**  
 Industrialization causes air, water, and soil pollution, requiring solutions like renewable energy and waste management.
+
 **Climate Change & GHGs**  
 Greenhouse gas emissions accelerate global warming; solutions include transitioning to renewables and sustainable land use.
 
@@ -59,8 +62,10 @@ Innovations promoting sustainability:
 
 **Renewable Energy** 
 Solar panels, wind turbines, and smart grids reduce fossil fuel dependence.
+
 **Sustainable Agriculture**
 Precision farming and smart irrigation optimize resource use.
+
 **Waste Management**
 AI-driven recycling and waste-to-energy systems support a circular economy
 
