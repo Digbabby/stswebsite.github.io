@@ -81,7 +81,8 @@ Space exploration has led to groundbreaking discoveries and technological advanc
 - **Human Missions to Mars** – NASA and SpaceX aim to send astronauts to Mars soon.
 - **Lunar Colonization** – Efforts to establish a long-term human presence on the Moon.
 - **Space Tourism** – Companies like Virgin Galactic offer commercial suborbital space flights.
-- **As space exploration advances**, responsible and sustainable efforts will shape a promising future for humanity.
+- **As space exploration advances,** responsible and sustainable efforts will shape a promising future for humanity.
+  
 ---
 
 ### 📌 Summary
