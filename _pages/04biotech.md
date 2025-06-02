@@ -46,8 +46,6 @@ Companies patent GMO seeds, increasing farmer dependency. Example: Philippine Bt
 As of Feb 2025, the Philippines lacks mandatory GMO labeling laws. GMOs are regulated under biosafety rules like Administrative Order No. 8 (2002).
 
 
----
-
 ### 🧭 Topic: Space Exploration
 Space exploration has led to groundbreaking discoveries and technological advancements that improve life on Earth and expand our understanding of the universe.
 
