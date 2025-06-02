@@ -9,6 +9,3 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Credits"
-    url: /credits/
-    #add credit page
