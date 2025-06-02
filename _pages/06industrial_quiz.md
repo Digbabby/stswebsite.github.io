@@ -112,7 +112,13 @@ pagination: false
     <button class="quiz-btn" onclick="checkAnswer(this, true)">C. Foundation for modern society</button>
     <button class="quiz-btn" onclick="checkAnswer(this, false)">D. Return to farming</button>
   </div>
+  <div id="score-container" style="display:none; text-align:center; margin-top:20px;">
+  <p id="score-msg"></p>
+  <button class="retry-btn" onclick="resetQuiz()">🔄 Restart Quiz</button>
+  </div>
+
 </div>
+
 <style>
   .quiz-btn {
     display: block;
