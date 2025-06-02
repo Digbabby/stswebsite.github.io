@@ -6,10 +6,6 @@ author_profile: true
 toc: true
 ---
 
-## 🧭 Topic: Advances in Genetic Engineering and Space Exploration
-
----
-
 ### 🧭 Topic: Biotechnology & GMOs
 
 ### 💡 Applications  
